@@ -1,6 +1,6 @@
 # 🌐 GCP Web Server Deployment – Week 2 Homework
 
-This project deploys a GCP VM running a web server inside a custom VPC using Terraform. The web page displays your project metadata (Project ID, VPC name, Private IP), and includes mascot images and a Brazilian-themed background.
+This project deploys a GCP VM running a web server inside a custom VPC using Terraform. The web page displays your project metadata (Project ID, VPC name, Private IP), and includes **Theo Hot Blonde** and **T.I.Q.S. Afro-Brazilian Hottie** in a Brazilian-themed background.
 
 ---
 
@@ -101,7 +101,7 @@ http://EXTERNAL_IP
 You’ll see:
 
 - A styled page with your **Project ID**, **VPC Name**, and **Private IP**
-- Two themed mascot images
+- Two Brazilian smoking hot ladies
 - A Brazilian flag background
 
 ---
