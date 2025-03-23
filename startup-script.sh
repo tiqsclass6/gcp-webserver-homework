@@ -19,7 +19,7 @@ wget -O /var/www/html/mascot.jpg "https://upload.wikimedia.org/wikipedia/en/thum
 cat <<EOF > /var/www/html/index.html
 <html>
   <head>
-    <title>Brazilian GCP Server</title>
+    <title>GCP Web Server - Week 2 Homework</title>
     <style>
       body {
         background-image: url('https://img.freepik.com/premium-photo/flag-wallpaper-brazil_670382-35283.jpg');
@@ -43,7 +43,7 @@ cat <<EOF > /var/www/html/index.html
   </head>
   <body>
     <div class="content">
-      <h1>Welcome to the Web Server</h1>
+      <h1>Brazilian GCP Server</h1>
       <img src="https://www.sanclerfrantz.com.br/extranet/gallery/50.jpg" alt="Theo's Blonde" width="527" height="791">
       <p><strong>Project ID:</strong> $PROJECT_ID</p>
       <p><strong>VPC Name:</strong> $VPC_NAME</p>

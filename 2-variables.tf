@@ -22,7 +22,7 @@ variable "private_subnet_name" {
   default = "private-subnet"
 }
 
-variable "public_subnet_cidr" { 
+variable "public_subnet_cidr" {
   default = "10.230.1.0/24" # Use your own public subnet CDIR
 }
 
