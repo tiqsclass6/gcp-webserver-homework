@@ -138,7 +138,3 @@ terraform destroy
 Confirm with `yes`.
 
 ---
-
-## 📬 Contact
-
-For questions or issues, please contact your instructor or teaching assistant.
